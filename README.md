@@ -2,6 +2,8 @@
 
 [🕎 Hanukkah of Data](https://hanukkah.bluebird.sh/5784/) is solved using [SQLite](https://www.sqlite.org/).
 
+![Hanukkah of Data](./resources/hod.png "Hanukkah of Data")
+
 ## License
 
 MIT License.

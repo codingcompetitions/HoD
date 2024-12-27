@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagram version="1" name="Hanukkah of Data.erd">
+	<entities>
+		<data-source id="sqlite_jdbc-19405cf9e44-61ffe736c92c8a7d">
+			<entity id="1" name="customers" fq-name="customers" order="0" x="20" y="20"/>
+			<entity id="2" name="orders" fq-name="orders" order="1" x="280" y="20"/>
+			<entity id="3" name="orders_items" fq-name="orders_items" order="2" x="280" y="280"/>
+			<entity id="4" name="products" fq-name="products" order="3" x="540" y="280"/>
+		</data-source>
+	</entities>
+	<relations/>
+</diagram>
