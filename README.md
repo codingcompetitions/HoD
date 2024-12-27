@@ -4,10 +4,11 @@
 
 ![Hanukkah of Data](./resources/hod.png "Hanukkah of Data")
 
-| Day |       Name       |
-|-----|------------------|
-| 🕯️  | The Investigator |
-|     |                  |
+| Day |                           Name                           |
+|-----|----------------------------------------------------------|
+| 🕯️  | [The Investigator](./hanukkah-of-data/Scripts/day01.sql) |
+| 🕯️  | [The Neighbor](./hanukkah-of-data/Scripts/day02.sql)     |
+|     |                                                          |
 
 ## Thankyou
 
