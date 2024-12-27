@@ -2,13 +2,14 @@
 
 [🕎 Hanukkah of Data](https://hanukkah.bluebird.sh/5784/) is solved using [SQLite](https://www.sqlite.org/).
 
-![Hanukkah of Data](./resources/hod.png "Hanukkah of Data")
+|    |                    Day                    |                           Name                           |
+|----|-------------------------------------------|----------------------------------------------------------|
+| 🕯️ | [1](https://hanukkah.bluebird.sh/5784/1/) | [The Investigator](./hanukkah-of-data/Scripts/day01.sql) |
+| 🕯️ | [2](https://hanukkah.bluebird.sh/5784/2/) | [The Contractor](./hanukkah-of-data/Scripts/day02.sql)   |
+| 🕯️ | [3](https://hanukkah.bluebird.sh/5784/3/) | [The Neighbor](./hanukkah-of-data/Scripts/day03.sql)     |
+|    |                                           |                                                          |
 
-| Day |                           Name                           |
-|-----|----------------------------------------------------------|
-| 🕯️  | [The Investigator](./hanukkah-of-data/Scripts/day01.sql) |
-| 🕯️  | [The Neighbor](./hanukkah-of-data/Scripts/day02.sql)     |
-|     |                                                          |
+![Hanukkah of Data](./resources/hod.png "Hanukkah of Data")
 
 ## Thankyou
 
