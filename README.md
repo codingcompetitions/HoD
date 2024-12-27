@@ -4,6 +4,10 @@
 
 ![Hanukkah of Data](./resources/hod.png "Hanukkah of Data")
 
+## Thankyou
+
++ [sqlean](https://github.com/nalgeon/sqlean)
+
 ## License
 
 MIT License.

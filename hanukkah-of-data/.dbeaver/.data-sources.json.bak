@@ -5,24 +5,14 @@
 			"provider": "sqlite",
 			"driver": "sqlite_jdbc",
 			"name": "noahs.sqlite",
-			"description": "Hanukkah of Data",
 			"save-password": true,
-			"show-system-objects": true,
-			"read-only": true,
 			"configuration": {
 				"database": "/home/ag/workspace/ceochronos/az-dev/codingcompetitions/hod/noahs.sqlite",
 				"url": "jdbc:sqlite:/home/ag/workspace/ceochronos/az-dev/codingcompetitions/hod/noahs.sqlite",
 				"configurationType": "MANUAL",
 				"type": "dev",
 				"closeIdleConnection": true,
-				"properties": {
-					"enable_load_extension": "True"
-				},
-				"auth-model": "native",
-				"events": {},
-				"bootstrap": {
-					"query": ["SELECT load_extension(\u0027${project.path}/../sqlean/sqlean.so\u0027);"]
-				}
+				"auth-model": "native"
 			}
 		}
 	},
