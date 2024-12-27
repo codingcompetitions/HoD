@@ -4,6 +4,11 @@
 
 ![Hanukkah of Data](./resources/hod.png "Hanukkah of Data")
 
+| Day |       Name       |
+|-----|------------------|
+| 🕯️  | The Investigator |
+|     |                  |
+
 ## Thankyou
 
 + [sqlean](https://github.com/nalgeon/sqlean)
