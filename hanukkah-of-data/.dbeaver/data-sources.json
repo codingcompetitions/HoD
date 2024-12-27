@@ -1,0 +1,35 @@
+{
+	"folders": {},
+	"connections": {
+		"sqlite_jdbc-19405cf9e44-61ffe736c92c8a7d": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "noahs.sqlite",
+			"save-password": true,
+			"configuration": {
+				"database": "/home/ag/workspace/ceochronos/az-dev/codingcompetitions/hod/noahs.sqlite",
+				"url": "jdbc:sqlite:/home/ag/workspace/ceochronos/az-dev/codingcompetitions/hod/noahs.sqlite",
+				"configurationType": "MANUAL",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"auth-model": "native"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": false,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"smart-commit": false,
+			"smart-commit-recover": true,
+			"auto-close-transactions": false,
+			"close-transactions-period": 1800,
+			"auto-close-connections": true,
+			"close-connections-period": 14400
+		}
+	}
+}
